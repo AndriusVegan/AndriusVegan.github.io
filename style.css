@@ -1,4 +1,16 @@
+<<<<<<< HEAD
+.data-info {
+  /* background-image: url("go-vegan.jpg"); */
+  background-color: #fefefe;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  margin: 0 auto;
+  overflow: hidden;
+  scrollbar-visibility: hidden;
+=======
 body{
     background-image: url(go-vegan.jpg);
   
+>>>>>>> bfb98d0345f5b6f83a1919a912fb87b1c9b7ce2b
 }
