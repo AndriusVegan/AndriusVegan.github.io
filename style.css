@@ -22,3 +22,10 @@ body{
  background-position:center;
 }
 
+marquee{
+  font-size: 5rem;
+  color:darkgreen;
+  direction: sideways;
+
+
+}
