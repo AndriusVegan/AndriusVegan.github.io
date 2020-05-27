@@ -1,12 +1,24 @@
-.data-info {
-  /* background-image: url("go-vegan.jpg"); */
-  background-color: green;
-  max-width: 100%;
-  height: auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  margin: 0 auto;
-  overflow: hidden;
-  scrollbar-visibility: hidden;
+body{
+  background-color: #fff;
+  background-image: url(go-vegan.jpg);
 }
+.data-info{
+  /* width:80vw;
+  height:80vh; */
+}
+
+.center-fit{
+  max-width:100%;
+  min-height: 100vh;
+  height:auto;
+  max-height:100%;
+  min-width: 100%;
+  } 
+
+.center-fit{
+  background-image:url('Go-Vegan-image.jpg');
+ background-size:contain;
+ background-repeat:no-repeat;
+ background-position:center;
+}
+
